@@ -43,10 +43,9 @@ Giá bán chuối già hương: Mua của nông dân tại vườn 5k/ kg bán 9
 
 #### 18 Lê Văn Thiêm, khu phố Hưng Phước 1, phường Tân Phong, quận 7, TPHCM
 
-Với những bạn muốn mua online vui lòng đăng ký tại link sau: 
+**Với những bạn muốn mua online vui lòng đăng ký tại link sau:**
+[Mua Online Tại Đây](https://goo.gl/forms/6Cs0McBNNE6mATQG2)
 
-[Here](https://goo.gl/forms/6Cs0McBNNE6mATQG2)
+**Hoặc nhắn tin tại FB:** [https://www.facebook.com/chuoinghiatinh/](https://www.facebook.com/chuoinghiatinh/)
 
-Hoặc nhắn tin tại FB: [https://www.facebook.com/chuoinghiatinh/](https://www.facebook.com/chuoinghiatinh/)
-
-Cảm ơn các bạn đã chung tay chia sẻ với những khó khăn của nông dân trồng chuối.
+**Cảm ơn các bạn đã chung tay chia sẻ với những khó khăn của nông dân trồng chuối.**
