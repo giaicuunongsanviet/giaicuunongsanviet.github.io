@@ -1,175 +1,31 @@
 ---
 layout: post
-title:  "NodeJs: Set và get với Node.js và Redis"
-date:   2016-12-09 11:46:07
-categories: tungns update
-tags: redis node cache
-image: /images/pic001.png
-description: "NodeJs: Set và get với Node.js và Redis. Trước khi đi vào bài này các bạn phải hiều về Redis là như thế nào???
-Redis là hệ thống lưu trữ key-value với rất nhiều tính năng và được sử dụng rộng rãi. Redis nổi bật bởi việc hỗ trợ nhiều cấu trúc dữ liệu cơ bản (hash, list, set, sorted set, string), đồng thời cho phép scripting bằng ngôn ngữ lua. Bên cạnh lưu trữ key-value trên RAM với hiệu năng cao, redis còn hỗ trợ lưu trữ dữ liệu trên đĩa cứng (persistent redis) cho phép phục hồi dữ liệu khi gặp sự cố. Các chế độ động bộ snapshots hoặc append only. Ngoài tính năng replicatation (sao chép giữa master-client), tính năng cluster (sao lưu master-master) cũng đang được phát triển."
-author: "tungns"
+title:  "CÙNG Rainbow Foundation "GIẢI CỨU" CHUỐI CHO NHÀ VƯỜN ĐỒNG NAI"
+date:   2017-02-23 11:46:07
+categories: nhomgiaicuu update
+tags: giaicuu chuoi dongnai chungtay
+image: /images/chuoi.jpg
+description: "Đã từ rất lâu rồi, những vườn nông sản bị thương lái ép giá cứ liên tiếp diễn ra trên khắp Việt Nam. Nông sản cứ được mùa mất giá, rồi mất mùa được giá là bài toán nan giải chưa tìm được lối thoát, khiến bà con nông dân lao đao. Để giải quyết bài toán này, cần sự vào cuộc của nhiều bên liên quan và đòi hỏi những sự đầu tư lâu dài về cả chất xám, kỹ thuật, máy móc lẫn những chính sách hoạch định vĩ mô. Đứng ở góc độ là một tổ chức xã hội, thì không gì hơn là cách đồng hành với bà con những lúc khó khăn."
+author: "Rainbow Foundation"
 ---
 
-Trước khi đi vào bài này các bạn phải hiều về Redis là như thế nào???
-Redis là hệ thống lưu trữ key-value với rất nhiều tính năng và được sử dụng rộng rãi. Redis nổi bật bởi việc hỗ trợ nhiều cấu trúc dữ liệu cơ bản (hash, list, set, sorted set, string), đồng thời cho phép scripting bằng ngôn ngữ lua. Bên cạnh lưu trữ key-value trên RAM với hiệu năng cao, redis còn hỗ trợ lưu trữ dữ liệu trên đĩa cứng (persistent redis) cho phép phục hồi dữ liệu khi gặp sự cố. Các chế độ động bộ snapshots hoặc append only. Ngoài tính năng replicatation (sao chép giữa master-client), tính năng cluster (sao lưu master-master) cũng đang được phát triển.
+Đã từ rất lâu rồi, những vườn nông sản bị thương lái ép giá cứ liên tiếp diễn ra trên khắp Việt Nam. Nông sản cứ được mùa mất giá, rồi mất mùa được giá là bài toán nan giải chưa tìm được lối thoát, khiến bà con nông dân lao đao. Để giải quyết bài toán này, cần sự vào cuộc của nhiều bên liên quan và đòi hỏi những sự đầu tư lâu dài về cả chất xám, kỹ thuật, máy móc lẫn những chính sách hoạch định vĩ mô. Đứng ở góc độ là một tổ chức xã hội, thì không gì hơn là cách đồng hành với bà con những lúc khó khăn.
 
-Trước tiên tạo file có tên là: * app.js *
+Chính vì thế, ngay khi nhận được thông tin các vườn chuối ở Đồng Nai đang lâm vào tình trạng ép giá 1 - 2 ngàn đồng/kg mà không thể tiêu thụ, hàng chục - hàng trăm tấn chuối đã và đang chín không thể chuyển đi xa, RBF vận động "cuộc giải cứu" cấp thiết đến cộng đồng. Chuối chuyển TRỰC TIẾP từ nhà vườn ở Đồng Nai lên:
 
-Sau đó tôi set và get một object hay một key :
+Chuối già hương cấy mô
+Giá bán: 8,000đ/kg
+Bán theo túi: 50,000đ/túi (khoảng hơn 6kg)
+Chuối được đội ngũ chuyên viên chọn lựa, cắt sẵn thành từng trái để dễ bảo quản và vận chuyển. Mỗi bao đều có những trái chuối đã chín hườm và những trái sắp chín cắt từ trên cây, đảm bảo chất lượng.
 
-{% highlight javascript %}
-var redis = require("redis")
-    , client = redis.createClient();
- 
-client.on("error", function (err) {
-    console.log("Error " + err);
-});
- 
-client.on("connect", runSample);
- 
-function runSample() {
-    // Set a value
-    client.set("string key", "Hello My Daughter", function (err, reply) {
-        console.log(reply.toString());
-    });
-    // Get a value
-    client.get("string key", function (err, reply) {
-        console.log(reply.toString());
-    });
-}
-{% endhighlight %}
+HÌNH THỨC MUA: Ship tận nơi trong nội thành TP.HCM hoặc RBF tổ chức bán trực tiếp để các bạn đến ủng hộ cho vui, tạo không khí cộng đồng cũng như gặp gỡ những tấm lòng cứu giúp bà con nông dân :D 
+- Ship thu tiền trực tiếp: phí ship 30k/địa chỉ. Vui lòng inbox đặt hàng. Bắt đầu giao hàng vào thứ 6 (24/02).
+- Đến mua trực tiếp: vào lúc 15 - 18g chiều thứ Sáu ngày 24/02.
+Tại địa chỉ 73 Ngô Thời Nhiệm, P.06, Q.03
 
+Mục đích chính của hoạt động là giúp đỡ bà con nông dân. Ngoài ra, như thường lệ, tất cả lợi nhuận sẽ được góp vào Quỹ RBF để tiếp tục những chiến dịch cộng đồng/dự án thiện nguyện tiếp theo.
 
-
-Khi tôi kết nối với Redis và tất cả mọi thứ đã sẵn sàng các chức năng runSample được gọi lần lượt đặt một giá trị và sau đó đọc nó trở lại.
-
-Kết quả xuất ra : 
-
-{% highlight javascript %}
-OK
-Hello My Daughter
-
-{% endhighlight %}
-
-Và bây giờ tôi thêm một ví dụ về thời hạn của key này:
-
-{% highlight javascript %}
-
-var redis = require('redis')
-    , client = redis.createClient();
- 
-client.on('error', function (err) {
-    console.log('Error ' + err);
-});
- 
-client.on('connect', runSample);
- 
-function runSample() {
-    // Set a value with an expiration
-    client.set('string key', 'Hello World', redis.print);
-    // Expire in 3 seconds
-    client.expire('string key', 3);
- 
-    // This timer is only to demo the TTL
-    // Runs every second until the timeout
-    // occurs on the value
-    var myTimer = setInterval(function() {
-        client.get('string key', function (err, reply) {
-            if(reply) {
-                console.log('I live: ' + reply.toString());
-            } else {
-                clearTimeout(myTimer);
-                console.log('I expired');
-                client.quit();
-            }
-        });
-    }, 1000);
-}
-
-{% endhighlight %}
-Rồi các bạn thấy đấy nó sẽ hiện ra như thế này.Sau khi 3 giây đi qua thì nó hết hạn. 
-{% highlight javascript %}
-Reply: OK
-I live: Hello World
-I live: Hello World
-I live: Hello World
-I expired
-{% endhighlight %}
-
-Bây giờ tôi sẽ kiểm tra xem có bao nhiêu thời gian một giá trị đã để lại trước khi nó hết hạn:
-
-{% highlight javascript %}
-var redis = require('redis')
-    , client = redis.createClient();
- 
-client.on('error', function (err) {
-    console.log('Error ' + err);
-});
- 
-client.on('connect', runSample);
- 
-function runSample() {
-    // Set a value
-    client.set('string key', 'Hello World', redis.print);
-    // Expire in 3 seconds
-    client.expire('string key', 3);
- 
-    // This timer is only to demo the TTL
-    // Runs every second until the timeout
-    // occurs on the value
-    var myTimer = setInterval(function() {
-        client.get('string key', function (err, reply) {
-            if(reply) {
-                console.log('I live: ' + reply.toString());
-                client.ttl('string key', writeTTL);
-            } else {
-                clearTimeout(myTimer);
-                console.log('I expired');
-                client.quit();
-            }
-        });
-    }, 1000);
-}
- 
-function writeTTL(err, data) {
-    console.log('I live for this long yet: ' + data);
-}
-{% endhighlight %}
-
-Chạy chương trình và kết quả như sau : 
-
-{% highlight javascript %}
-Reply: OK
-I live: Hello World
-I live for this long yet: 2
-I live: Hello World
-I live for this long yet: 1
-I live: Hello World
-I live for this long yet: 0
-I expired
-{% endhighlight %}
-
-Remove all users : commend :redis-cli flushall
-
-
-{% highlight javascript %}
-var user_rahul = { 
-    username: 'tungns'
-};
-var user_namita = {
-    username: 'mailam'
-};
-client.hset('users', "123", JSON.stringify(user_rahul));
-client.hset('users', "456", JSON.stringify(user_namita));
-
-//get all users 
-client.hgetall("users" , function(err, user) {
-    console.log("user---",user);
-});
-
-//get single user have id is 123
-client.hget("users", '123', function(err, user) {
-    console.log("user--123-",user);
-});
-
-{% endhighlight %}
+Các bạn có thể chung tay bằng cách chia sẻ thông tin giúp RBF nhé <3 
+-----------------------------------------------------------------
+THÔNG TIN LIÊN HỆ 
+Hotline: +84 906 919 848 

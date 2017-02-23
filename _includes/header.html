@@ -12,16 +12,16 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
   {% if page.title == null %}
-    <meta name="author" content="tungns.top" />
-    <meta name="description" content="Blog's học tập dành cho các bạn đam mê về lập trình bao gồm PHP, JAVA, JAVASCRIPT, NODE JS, MONGODB, MEANJS, HTML, CSS ...">
-    <meta name="keywords" content="Lap trinh, hoc lap trinh, code hay, tu hoc, tu hoc lap trinh"/>
-    <meta name="news_keywords" content="java, javascript, php, node js, mongodb, mysql" />
+    <meta name="author" content="giaicuunongsanviet.github.io" />
+    <meta name="description" content="Giải cứu nông sản việt nam">
+    <meta name="keywords" content="giai cuu, nong san, nong dan,viet nam, tu thien"/>
+    <meta name="news_keywords" content="giaicuu, nongsan, nongdan, vietnam, tuthien" />
 
-    <meta property="og:url" content="http://tungns.top/" />
+    <meta property="og:url" content="http://giaicuunongsanviet.github.io/" />
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="A blog by developers" />
-    <meta property="og:description" content="Blog's học tập dành cho các bạn đam mê về lập trình bao gồm PHP, JAVA, JAVASCRIPT, NODE JS, MONGODB, MEANJS, HTML, CSS ..." />
-    <meta property="og:image" content="http://tungns.top/images/me001.png" />
+    <meta property="og:title" content="giaicuunongsanviet" />
+    <meta property="og:description" content="Giải cứu nông sản việt nam" />
+    <meta property="og:image" content="http://giaicuunongsanviet.github.io/images/me001.png" />
 
   {% else %}
     <meta name="author" content="{{page.author}}" />
@@ -29,11 +29,11 @@
     <meta name="keywords" content="{% for tag in page.tags limit:10 %}{{ tag }},{% endfor %}"/>
     <meta name="news_keywords" content="{% for tag in page.tags limit:10 %}{{ tag }},{% endfor %}" />
 
-    <meta property="og:url" content="http://tungns.top{{ page.url }}" />
+    <meta property="og:url" content="http://giaicuunongsanviet.github.io{{ page.url }}" />
     <meta property="og:type" content="article" />
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="og:description" content="{{ page.description }}" />
-    <meta property="og:image" content="http://tungns.top{{ page.image }}" />
+    <meta property="og:image" content="http://giaicuunongsanviet.github.io{{ page.image }}" />
   {% endif %}
 
   <meta http-equiv="content-language" content="vi"/>
