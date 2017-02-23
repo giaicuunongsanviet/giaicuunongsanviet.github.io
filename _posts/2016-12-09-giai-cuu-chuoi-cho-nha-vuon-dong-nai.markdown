@@ -15,11 +15,11 @@ Người dân Đồng Nai sau thời gian làm lụng vất vả, "bán mặt ch
 Nguyên nhân là do Trung Quốc ngừng thu mua chuối theo con đường tiểu ngạch khiến nguồn cung vượt cầu đẩy giá xuống thấp kỷ lục.Tại xã Thanh Bình, huyện Trảng Bom (Đồng Nai), nơi có hơn 100 ha diện tích trồng chuối, người dân đang gặp cảnh khốn đốn khi chuối bước vào vụ thu hoạch nhưng thương lái không mặn mà thu mua với lý do không xuất khẩu được.
 Theo nông dân, chuối cấy mô cho trái to và đến thời kỳ thu hoạch chín nhanh. Trong vòng 10 ngày, nếu không thu kịp trái sẽ hư họng, rụng. Nhiều chủ vườn buộc phải để chuối chín rục tại vườn rồi vứt cho gia súc, gia cầm ăn. 
 
-<!-- ![Chung tay giải cứu chuối đồng nai ](https://giaicuunongsanviet.github.io/images/chuoi/chuoi1.jpg) -->
+
 
 Chiến dịch "Giải cứu chuối hỗ trợ nông dân Đồng Nai" rất hy vọng các nhà hảo tâm cùng chung tay giúp sức giải cứu bà con nông dân khỏi tình cảnh đáng thương như hiện nay. Mỗi người ủng hộ bà con một nải, mỗi đơn vị hay doanh nghiệp hãy cùng chung tay thu gom rồi chia sẻ tới các Trung tâm bảo trợ, các nhà Mở hay các Viện dưỡng lão... thì bà con sẽ vơi bớt phần nào sự tổn thất. 
 
-<!-- ![Chung tay giải cứu chuối đồng nai ](https://giaicuunongsanviet.github.io/images/chuoi/chuoi2.jpg) -->
+
 
 Chỉ với mỗi nải chuối bạn đã góp sức mình vào công cuộc giúp đỡ người dân trong lúc khó khăn này, đó cũng là tình cảm,là sự sẻ chia, đồng cảm mà chúng ta giành tặng. Sống là để cho đi đâu mong ngày nhận lại. Hãy sát cánh cùng người dân nhé các bạn ơi!
 
@@ -50,3 +50,24 @@ Giá bán chuối già hương: Mua của nông dân tại vườn 5k/ kg bán 9
 **Hoặc nhắn tin tại FB:** [https://www.facebook.com/chuoinghiatinh/](https://www.facebook.com/chuoinghiatinh/)
 
 **Cảm ơn các bạn đã chung tay chia sẻ với những khó khăn của nông dân trồng chuối.**
+
+
+### Những hình ảnh thực tế:
+
+
+![Chung tay giải cứu chuối đồng nai ](https://giaicuunongsanviet.github.io/images/chuoi/chuoi6.jpg){: .image .featured}
+
+
+![Chung tay giải cứu chuối đồng nai ](https://giaicuunongsanviet.github.io/images/chuoi/chuoi5.jpg){: .image .featured}
+
+
+![Chung tay giải cứu chuối đồng nai ](https://giaicuunongsanviet.github.io/images/chuoi/chuoi4.jpg){: .image .featured}
+
+
+![Chung tay giải cứu chuối đồng nai ](https://giaicuunongsanviet.github.io/images/chuoi/chuoi3.jpg){: .image .featured}
+
+
+![Chung tay giải cứu chuối đồng nai ](https://giaicuunongsanviet.github.io/images/chuoi/chuoi1.jpg){: .image .featured}
+
+
+![Chung tay giải cứu chuối đồng nai ](https://giaicuunongsanviet.github.io/images/chuoi/chuoi2.jpg){: .image .featured}
