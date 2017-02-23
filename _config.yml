@@ -2,8 +2,8 @@
 title: Website về việc hỗ trợ những nông sản Việt Nam chưa có đầu ra.
 email: giaicuunongsanviet.com@gmail.com
 description: > Website về việc hỗ trợ những nông sản Việt Nam chưa có đầu ra.
-baseurl: "http://giaicuunongsanviet.com" # the subpath of your site, e.g. /blog/
-url: "http://giaicuunongsanviet.com" # the base hostname & protocol for your site
+baseurl: "https://giaicuunongsanviet.github.io" # the subpath of your site, e.g. /blog/
+url: "http://giaicuunongsanviet.github.io" # the base hostname & protocol for your site
 twitter_username: NhomTuThien
 github_username:  NhomTuThien
 
