@@ -6,6 +6,7 @@ baseurl: "https://giaicuunongsanviet.github.io" # the subpath of your site, e.g.
 url: "http://giaicuunongsanviet.github.io" # the base hostname & protocol for your site
 twitter_username: NhomTuThien
 github_username:  NhomTuThien
+google_analytics: UA-92514619-1
 
 # Build settings
 markdown: kramdown
@@ -15,3 +16,4 @@ paginate: 4
 author: NhomTuThien
 
 gems: [jekyll-paginate]
+
