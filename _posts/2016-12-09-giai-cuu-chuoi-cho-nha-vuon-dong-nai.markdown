@@ -5,7 +5,7 @@ date:   2017-02-23 11:46:07
 categories: nhomgiaicuu update
 tags: giaicuu chuoi dongnai chungtay
 image: /images/chuoi.jpg
-description: "Người dân Đồng Nai sau thời gian làm lụng vất vả, "bán mặt cho đất bán lưng cho trời", khó khăn lắm mới chăm bón cho chuối đến ngày thu hoạch vậy mà nhiều ngày gần đây, người trồng chuối tại Đồng Nai đang lao đao trong tình trạng giá chuối bán tại vườn giảm xuống mức chạm đáy kỷ lục 1.500 - 2.000 đồng/kg nhưng vẫn không tìm thấy người mua trong khi năm ngoài giá chuối trung bình khoảng là 15.000đ/kg.
+description: "Người dân Đồng Nai sau thời gian làm lụng vất vả, 'bán mặt cho đất bán lưng cho trời', khó khăn lắm mới chăm bón cho chuối đến ngày thu hoạch vậy mà nhiều ngày gần đây, người trồng chuối tại Đồng Nai đang lao đao trong tình trạng giá chuối bán tại vườn giảm xuống mức chạm đáy kỷ lục 1.500 - 2.000 đồng/kg nhưng vẫn không tìm thấy người mua trong khi năm ngoài giá chuối trung bình khoảng là 15.000đ/kg.
 "
 author: "Tinh Tam"
 ---
