@@ -1,0 +1,56 @@
+<head prefix="og: http://ogp.me/ns# fb:http://ogp.me/ns/fb# article:http://ogp.me/ns/article#">
+  {% if page.title == null %}
+  <title>{{site.title}}</title>
+  {% else %}
+    <title>{{page.title}}</title>
+  {% endif %}
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <!--[if lte IE 8]><script src="{{ "js/ie/html5shiv.js" | prepend: site.baseurl }}"></script><![endif]-->
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  <link rel='shortcut icon' type='image/x-icon' href='/images/logo.ico' />
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+  {% if page.title == null %}
+    <meta name="author" content="tungns.top" />
+    <meta name="description" content="Blog's học tập dành cho các bạn đam mê về lập trình bao gồm PHP, JAVA, JAVASCRIPT, NODE JS, MONGODB, MEANJS, HTML, CSS ...">
+    <meta name="keywords" content="Lap trinh, hoc lap trinh, code hay, tu hoc, tu hoc lap trinh"/>
+    <meta name="news_keywords" content="java, javascript, php, node js, mongodb, mysql" />
+
+    <meta property="og:url" content="http://tungns.top/" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="A blog by developers" />
+    <meta property="og:description" content="Blog's học tập dành cho các bạn đam mê về lập trình bao gồm PHP, JAVA, JAVASCRIPT, NODE JS, MONGODB, MEANJS, HTML, CSS ..." />
+    <meta property="og:image" content="http://tungns.top/images/me001.png" />
+
+  {% else %}
+    <meta name="author" content="{{page.author}}" />
+    <meta name="description" content="{{page.description}}">
+    <meta name="keywords" content="{% for tag in page.tags limit:10 %}{{ tag }},{% endfor %}"/>
+    <meta name="news_keywords" content="{% for tag in page.tags limit:10 %}{{ tag }},{% endfor %}" />
+
+    <meta property="og:url" content="http://tungns.top{{ page.url }}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:description" content="{{ page.description }}" />
+    <meta property="og:image" content="http://tungns.top{{ page.image }}" />
+  {% endif %}
+
+  <meta http-equiv="content-language" content="vi"/>
+
+  <meta name="apple-mobile-web-app-capable" content="yes">
+
+  <link rel="alternate" href="tungns.top" hreflang="vn-vi" />
+
+  
+  <meta http-equiv="REFRESH" content="1800" />
+  <meta name="googlebot" content="noarchive" />
+  <meta name="robots" content="noarchive" />
+  
+  
+<!-- <script src="http://code.jquery.com/jquery-latest.js" type="text/javascript"></script> -->
+<!-- <link rel="stylesheet" href="/assets/music/index.css" type="text/css" /> -->
+<!-- <script src="/assets/hook/hook.js" type="text/javascript"></script> -->
+  <!--[if lte IE 9]><link rel="stylesheet" href="{{ "assets/css/ie9.css" | prepend: site.baseurl }}" /><![endif]-->
+  <!--[if lte IE 8]><link rel="stylesheet" href="{{ "assets/css/ie8.css" | prepend: site.baseurl }}" /><![endif]-->
+</head>
