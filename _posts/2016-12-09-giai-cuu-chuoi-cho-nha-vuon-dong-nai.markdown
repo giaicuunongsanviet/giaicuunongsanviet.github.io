@@ -29,6 +29,7 @@ Giá bán chuối già hương: Mua của nông dân tại vườn 5k/ kg bán 9
 # Các địa điểm nhận đăng ký mua chuối và bán chuối ủng hộ bà con nông dân Đồng Nai:
 
 * Trụ sở cơ quan Tỉnh đoàn Đồng Nai, số 31, đường Võ Thị Sáu, phường Quyết Thắng, Biên Hòa, Đồng Nai
+<<<<<<< HEAD
 
 * 419 Nơ Trang Long, quận Bình Thạnh, TPHCM
 
@@ -42,6 +43,21 @@ Giá bán chuối già hương: Mua của nông dân tại vườn 5k/ kg bán 9
 
 * 379 Bạch Đằng, phường 15, quận Bình Thạnh, TPHCM.
 
+=======
+
+* 419 Nơ Trang Long, quận Bình Thạnh, TPHCM
+
+* Văn phòng Đoàn Thanh niên ĐH Công nghiệp Thực phẩm TPHCM (140, Lê Trọng Tấn, phường Tây Thạnh, quận Tân Phú, TPHCM)
+
+* 5 Nguyễn Đình Chiểu, quận 1, TPHCM
+
+* 136 Nguyên Hồng, phường 1, quận Gò Vấp, TPHCM (ngay vòng xoay Phạm Văn Đồng-Lê Quang Định-Nguyên Hồng)
+
+* 10k2 khu TTTM Nguyễn Thái Học, phường 7, TP. Vũng Tàu. (Gần nhà hàng Hữu Nghị)
+
+* 379 Bạch Đằng, phường 15, quận Bình Thạnh, TPHCM.
+
+>>>>>>> 8d6d7f04d322f7612d21b17aa9c101b9e0170205
 * 18 Lê Văn Thiêm, khu phố Hưng Phước 1, phường Tân Phong, quận 7, TPHCM
 
 **Với những bạn muốn mua online vui lòng đăng ký tại link sau:**
