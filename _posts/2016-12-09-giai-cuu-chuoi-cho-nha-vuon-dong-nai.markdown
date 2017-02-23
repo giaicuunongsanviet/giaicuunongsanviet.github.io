@@ -22,27 +22,31 @@ Chỉ với mỗi nải chuối bạn đã góp sức mình vào công cuộc gi
 Giá bán chuối già hương: Mua của nông dân tại vườn 5k/ kg bán 9k/kg tại TPHCM. 1 buồng 7-9 nải; 25-27kg/buồng (bán theo nải riêng lẻ hoặc cả buồng)
 
 
-### Các địa điểm nhận đăng ký mua chuối và bán chuối ủng hộ bà con nông dân Đồng Nai:
+# Các địa điểm nhận đăng ký mua chuối và bán chuối ủng hộ bà con nông dân Đồng Nai:
 
-# Trụ sở cơ quan Tỉnh đoàn Đồng Nai, số 31, đường Võ Thị Sáu, phường Quyết Thắng, Biên Hòa, Đồng Nai
-419 Nơ Trang Long, quận Bình Thạnh, TPHCM
+#### Trụ sở cơ quan Tỉnh đoàn Đồng Nai, số 31, đường Võ Thị Sáu, phường Quyết Thắng, Biên Hòa, Đồng Nai
 
-# Văn phòng Đoàn Thanh niên ĐH Công nghiệp Thực phẩm TPHCM (140, Lê Trọng Tấn, phường Tây Thạnh, quận Tân Phú, TPHCM)
-5 Nguyễn Đình Chiểu, quận 1, TPHCM
+#### 419 Nơ Trang Long, quận Bình Thạnh, TPHCM
 
-# 136 Nguyên Hồng, phường 1, quận Gò Vấp, TPHCM (ngay vòng xoay Phạm Văn Đồng-Lê Quang Định-Nguyên Hồng)
-10k2 khu TTTM Nguyễn Thái Học, phường 7, TP. Vũng Tàu. (Gần nhà hàng Hữu Nghị)
+#### Văn phòng Đoàn Thanh niên ĐH Công nghiệp Thực phẩm TPHCM (140, Lê Trọng Tấn, phường Tây Thạnh, quận Tân Phú, TPHCM)
 
+#### 5 Nguyễn Đình Chiểu, quận 1, TPHCM
 
-# 379 Bạch Đằng, phường 15, quận Bình Thạnh, TPHCM.
+#### 136 Nguyên Hồng, phường 1, quận Gò Vấp, TPHCM (ngay vòng xoay Phạm Văn Đồng-Lê Quang Định-Nguyên Hồng)
 
 
-# 18 Lê Văn Thiêm, khu phố Hưng Phước 1, phường Tân Phong, quận 7, TPHCM
+#### 10k2 khu TTTM Nguyễn Thái Học, phường 7, TP. Vũng Tàu. (Gần nhà hàng Hữu Nghị)
+
+
+#### 379 Bạch Đằng, phường 15, quận Bình Thạnh, TPHCM.
+
+
+#### 18 Lê Văn Thiêm, khu phố Hưng Phước 1, phường Tân Phong, quận 7, TPHCM
 
 Với những bạn muốn mua online vui lòng đăng ký tại link sau: 
 
-https://goo.gl/forms/6Cs0McBNNE6mATQG2
+[Here](https://goo.gl/forms/6Cs0McBNNE6mATQG2)
 
-Hoặc nhắn tin tại FB: https://www.facebook.com/chuoinghiatinh/
+Hoặc nhắn tin tại FB: [https://www.facebook.com/chuoinghiatinh/](https://www.facebook.com/chuoinghiatinh/)
 
 Cảm ơn các bạn đã chung tay chia sẻ với những khó khăn của nông dân trồng chuối.
